@@ -1,3 +1,17 @@
+# Simple Interest Calculator
+
+A simple program that calculates **Simple Interest** based on user input.  
+This project is ideal for beginners learning basic programming concepts such as variables, input/output, and arithmetic operations.
+
+---
+
+## 📌 Formula Used
+
+Simple Interest is calculated using the formula:
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+
 Please consider the below factors while contributing
 
 Code Style: Maintain a consistent code style for readability.
